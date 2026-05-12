@@ -13,7 +13,7 @@
 
 <br/>
 
-**CS @ Symbiosis Institute of Technology, Hyderabad · India**
+** *AIML* @ Symbiosis Institute of Technology, Hyderabad · India**
 
 [![](https://img.shields.io/badge/IEEE%20IAS-Student%20Branch%20Chair-00B4D8?style=flat-square)](https://github.com/MLNomad-man)
 [![](https://img.shields.io/badge/Algorand-Blockchain%20Club%20Co--Lead-black?style=flat-square&logo=algorand)](https://github.com/MLNomad-man)
@@ -23,7 +23,7 @@
 
 ---
 
-# 💫 About Me:
+# ⭐ About Me:
 
 - 🎓 Undergraduate CS student at **Symbiosis Institute of Technology, Hyderabad**
 - 🤖 Passionate about **AI/ML, Computer Vision, Full-Stack Development & Blockchain**
