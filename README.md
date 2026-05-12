@@ -38,16 +38,16 @@
 ---
 
 ## 📊 GitHub Stats:
-## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=MLNomad-man&theme=dark&hide_border=false&border_radius=4&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=MLNomad-man&theme=dark&hide_border=true&border_radius=4&include_all_commits=false&count_private=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MLNomad-man&theme=dark&border_radius=4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MLNomad-man&theme=dark&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MLNomad-man&theme=dark&hide_border=false&border_radius=4&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MLNomad-man&theme=dark&hide_border=true&border_radius=4&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MLNomad-man&theme=radical&no-frame=true&no-bg=true&margin-w=4)
