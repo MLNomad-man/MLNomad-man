@@ -23,7 +23,7 @@
 
 ---
 
-# 💫 About Me:
+# ⭐ About Me:
 
 - 🎓 Undergraduate CS student at **Symbiosis Institute of Technology, Hyderabad**
 - 🤖 Passionate about **AI/ML, Computer Vision, Full-Stack Development & Blockchain**
