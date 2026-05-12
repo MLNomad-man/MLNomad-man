@@ -39,7 +39,6 @@
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=MLNomad-man&theme=tokyonight&hide_border=true&border_radius=4)](https://git.io/streak-stats)
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MLNomad-man&theme=radical&no-frame=true&no-bg=true&margin-w=4)
