@@ -38,9 +38,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MLNomad-man&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MLNomad-man&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MLNomad-man&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MLNomad-man)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MLNomad-man&theme=radical&no-frame=true&no-bg=true&margin-w=4)
