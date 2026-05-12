@@ -26,11 +26,16 @@
 ```python
 class MerajAnsari:
     def __init__(self):
-        self.name        = "Md Meraj Ansari"
-        self.university  = "Symbiosis Institute of Technology, Hyderabad"
-        self.role        = ["Full-Stack Developer", "ML Enthusiast", "UI/UX Designer"]
-        self.languages   = ["Python", "TypeScript", "Kotlin", "Dart", "Java", "C++"]
-        self.passion     = "Building things that THINK and SCALE 🚀"
+        self.name             = "Md Meraj Ansari"
+        self.university       = "Symbiosis Institute of Technology, Hyderabad"
+        self.year             = "2nd Year — AI & ML"
+        self.role             = ["Full-Stack Developer", "ML Enthusiast", "UI/UX Designer"]
+        self.languages        = ["Python", "TypeScript", "Kotlin", "Dart", "Java", "C++"]
+        self.ml_focus         = ["Classification", "Regression", "On-device AI", "Real-time Detection"]
+        self.currently        = "Building intelligent apps that run ML on the edge 🧠"
+        self.learning         = ["Deep Learning", "Model Optimization", "LLM Fine-tuning"]
+        self.fun_fact         = "I debug faster with lo-fi music playing 🎧"
+        self.passion          = "Building things that THINK and SCALE 🚀"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -40,6 +45,12 @@ me.say_hi()
 ```
 
 > 🧠 I bridge the gap between **robust full-stack systems** and **practical Machine Learning** — with a special focus on on-device AI and real-time detection.
+
+- 🔭 Currently working on **intelligent mobile apps** with on-device ML inference
+- 🌱 Actively learning **Deep Learning**, **model optimization**, and **LLM fine-tuning**
+- 🎨 I care deeply about **UI/UX** — good code should look as good as it works
+- 💬 Ask me about **React**, **scikit-learn**, **Firebase**, or anything Full-Stack + ML
+- ⚡ Fun fact: I debug faster with lo-fi music playing 🎧
 
 ---
 
