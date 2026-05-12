@@ -13,13 +13,26 @@
 
 <br/>
 
-** *AIML* @ Symbiosis Institute of Technology, Hyderabad · India**
+**CS @ Symbiosis Institute of Technology, Hyderabad · India**
 
 [![](https://img.shields.io/badge/IEEE%20IAS-Student%20Branch%20Chair-00B4D8?style=flat-square)](https://github.com/MLNomad-man)
 [![](https://img.shields.io/badge/Algorand-Blockchain%20Club%20Co--Lead-black?style=flat-square&logo=algorand)](https://github.com/MLNomad-man)
 [![](https://komarev.com/ghpvc/?username=MLNomad-man&label=Profile+Views&color=0077B6&style=flat-square)](https://visitcount.itsvg.in)
 
 </div>
+
+---
+
+# 💫 About Me:
+
+- 🎓 Undergraduate CS student at **Symbiosis Institute of Technology, Hyderabad**
+- 🤖 Passionate about **AI/ML, Computer Vision, Full-Stack Development & Blockchain**
+- 🏆 Hackathon winner — **IEEE Leadership Summit 2025** & **TechSynapse Hackathon**
+- ⚡ **IEEE IAS Student Branch Chair** | **Algorand Blockchain Club Co-Lead**
+- 🔭 Currently building: **YOLOv8 CV models**, **Algorand dApps** & full-stack AI products
+- 🧠 I specialize in **backend + ML + blockchain** across every team project
+- 🌱 Always learning — currently deep in **ML fundamentals** & **smart contract dev**
+- 💬 Ask me about **FastAPI, YOLOv8, Algorand, Flutter** or anything AI/ML
 
 ---
 
@@ -48,6 +61,7 @@
 
 </div>
 
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MLNomad-man&theme=radical&no-frame=true&no-bg=true&margin-w=4)
