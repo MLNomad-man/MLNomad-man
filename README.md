@@ -9,144 +9,42 @@
 ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Meraj+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;UI%2FUX+Designer+%F0%9F%8E%A8;Symbiosis+Institute+of+Technology+%7C+India;Building+things+that+THINK+%26+SCALE!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Md+Meraj+Ansari+%F0%9F%91%8B;AI+%7C+Computer+Vision+%7C+Full-Stack;Blockchain+%7C+Hackathon+Builder;I+build+things+that+think+and+scale+%F0%9F%9A%80" alt="Typing SVG" />
 
-### Md Meraj Ansari &nbsp;·&nbsp; ML Nomad &nbsp;·&nbsp; Full-Stack Dev
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MLNomad-man&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-![](https://img.shields.io/badge/SIT_Hyderabad-Engineering-blue?style=flat-square)
-&nbsp;
-![](https://img.shields.io/badge/Open_to-Collaborate-green?style=flat-square)
+**CS @ Symbiosis Institute of Technology, Hyderabad · India**
 
-</div>
-
----
-
-## 👋 About Me
-
-```python
-class MerajAnsari:
-    def __init__(self):
-        self.name             = "Md Meraj Ansari"
-        self.university       = "Symbiosis Institute of Technology, Hyderabad"
-        self.year             = "2nd Year — AI & ML"
-        self.role             = ["Full-Stack Developer", "ML Enthusiast", "UI/UX Designer"]
-        self.languages        = ["Python", "TypeScript", "Kotlin", "Dart", "Java", "C++"]
-        self.ml_focus         = ["Classification", "Regression", "On-device AI", "Real-time Detection"]
-        self.currently        = "Building intelligent apps that run ML on the edge 🧠"
-        self.learning         = ["Deep Learning", "Model Optimization", "LLM Fine-tuning"]
-        self.fun_fact         = "I debug faster with lo-fi music playing 🎧"
-        self.passion          = "Building things that THINK and SCALE 🚀"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = MerajAnsari()
-me.say_hi()
-```
-
-> 🧠 I bridge the gap between **robust full-stack systems** and **practical Machine Learning** — with a special focus on on-device AI and real-time detection.
-
-- 🔭 Currently working on **intelligent mobile apps** with on-device ML inference
-- 🌱 Actively learning **Deep Learning**, **model optimization**, and **LLM fine-tuning**
-- 🎨 I care deeply about **UI/UX** — good code should look as good as it works
-- 💬 Ask me about **React**, **scikit-learn**, **Firebase**, or anything Full-Stack + ML
-- ⚡ Fun fact: I debug faster with lo-fi music playing 🎧
-
----
-
-## 🎯 Currently Learning
-
-- 🧩 **Deep Learning** — CNNs, RNNs and building real neural networks from scratch
-- 🤖 **Agents & RAG** — making LLMs actually useful in production apps
-- ☁️ **Cloud Deployment** — shipping ML models to AWS & Vercel at scale
-- 📐 **System Design** — less spaghetti, more clarity in full-stack architecture
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Machine Learning & Data Science**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-
-**Algorithms I work with:**
-`Logistic Regression` · `KNN` · `Naive Bayes` · `Decision Trees` · `Random Forest`
-
-**Tools & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
-![mlflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=MLNomad-man&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=MLNomad-man&theme=github-dark-blue&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MLNomad-man&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://img.shields.io/badge/IEEE%20IAS-Student%20Branch%20Chair-00B4D8?style=flat-square)](https://github.com/MLNomad-man)
+[![](https://img.shields.io/badge/Algorand-Blockchain%20Club%20Co--Lead-black?style=flat-square&logo=algorand)](https://github.com/MLNomad-man)
+[![](https://komarev.com/ghpvc/?username=MLNomad-man&label=Profile+Views&color=0077B6&style=flat-square)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icantbedestroyed_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmeraj05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmeraj3500@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MLNomad-man&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MLNomad-man&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MLNomad-man&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=MLNomad-man&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
+![](https://github-profile-trophy.vercel.app/?username=MLNomad-man&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmeraj05)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/icantbedestroyed_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmeraj3500@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLNomad-man)
-
----
-
-*⚡ Crafted with code, caffeine & curiosity*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
