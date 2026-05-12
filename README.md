@@ -38,15 +38,7 @@
 ---
 
 ## 📊 GitHub Stats:
-## 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=MLNomad-man&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=MLNomad-man&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MLNomad-man&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MLNomad-man&theme=tokyonight&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 </div>
 
 ## 🏆 GitHub Trophies
